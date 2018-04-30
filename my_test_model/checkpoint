@@ -1,2 +1,2 @@
-model_checkpoint_path: "/home/alex/Desktop/Face Detection/my_test_model/"
-all_model_checkpoint_paths: "/home/alex/Desktop/Face Detection/my_test_model/"
+model_checkpoint_path: "/home/x2009/Desktop/Face-Detection-Recognition/my_test_model/-1000"
+all_model_checkpoint_paths: "/home/x2009/Desktop/Face-Detection-Recognition/my_test_model/-1000"
